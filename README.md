@@ -13,4 +13,4 @@ spider
 样式参考自 [http://twitter.github.com/](http://twitter.github.com/)
 
 ## 截图 ##
-![](screenshots/spider.png)
+![](https://github.com/yuguo/spider/blob/master/screenshots/spider.png)
